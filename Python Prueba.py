@@ -9,7 +9,7 @@ def multiplicar(a, b):
 
 def dividir(a, b):
     if b == 0:
-        return "Error: no se puede dividir entre cero"
+        return "Error: no se puede dividir entre cero resultado"
     return a / b
 
 
